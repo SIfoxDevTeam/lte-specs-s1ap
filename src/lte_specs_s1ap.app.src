@@ -1,0 +1,5 @@
+{application, lte_specs_s1ap, [
+    {description, "ASN.1 S1AP specs"},
+    {vsn, "0.0.1"},
+    {applications, [kernel, stdlib]}
+]}.
